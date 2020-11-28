@@ -2,6 +2,8 @@
 
 A Telegram bot with an intriguing story to tell
 
+![Screenshot of the telegram adventure bot](chatbot_story_screenshot.png)
+
 For the November Remote Hack we set about creating a Telegram bot to tell a story where you can choose how things progress.
 
 ## This has no tests! It's not production ready
